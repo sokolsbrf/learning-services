@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Downloader</string>
+    <string name="button_download">Загрузить</string>
+
+    <string name="error_no_permission">Необходимо разрешение</string>
+    <string name="error_no_permission_details">Нажмите для его предоставления приложению</string>
+    <string name="status_downloading">Загрузка...</string>
+</resources>
